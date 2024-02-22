@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb01d970-48d1-454d-923f-4ba9614370e0" name="Changes" comment="Class 2 : Encapsulation">
-      <change afterPath="$PROJECT_DIR$/src/ConstructorChaining/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstructorChaining/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstructorChaining/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstructorChaining/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstructorChaining/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeepvsShallow/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeepvsShallow/Exam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeepvsShallow/ReattemptExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeepvsShallow/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeepvsShallow/User.java" afterDir="false" />
+    <list default="true" id="bb01d970-48d1-454d-923f-4ba9614370e0" name="Changes" comment="Class 3 : INheritance and poly">
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/AnimalUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -56,7 +54,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConstructorChaining.Client">
+  <component name="RunManager" selected="Application.Polymorphism.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntroToOOP.Client" />
       <module name="SST_OOP" />
@@ -96,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Polymorphism.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Client" />
+      <module name="SST_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TicTacToe.TicTacToe" />
       <module name="SST_OOP" />
@@ -105,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Polymorphism.Client" />
         <item itemvalue="Application.ConstructorChaining.Client" />
         <item itemvalue="Application.DeepvsShallow.Client" />
         <item itemvalue="Application.Client" />
@@ -124,7 +136,8 @@
       <workItem from="1707800246567" duration="2962000" />
       <workItem from="1707818304389" duration="153000" />
       <workItem from="1707972512478" duration="5787000" />
-      <workItem from="1708402151586" duration="3959000" />
+      <workItem from="1708402151586" duration="4591000" />
+      <workItem from="1708573611029" duration="6139000" />
     </task>
     <task id="LOCAL-00001" summary="Class 1 : Tic tac toe">
       <option name="closed" value="true" />
@@ -142,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707995963037</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Class 3 : INheritance and poly">
+      <option name="closed" value="true" />
+      <created>1708408460090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708408460090</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +172,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Class 1 : Tic tac toe" />
     <MESSAGE value="Class 2 : Encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class 2 : Encapsulation" />
+    <MESSAGE value="Class 3 : INheritance and poly" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class 3 : INheritance and poly" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
